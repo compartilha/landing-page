@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/landing-page/static/css/main.4707c148.css",
+    "main.js": "/landing-page/static/js/main.2bc4b8d3.js",
+    "static/media/presentation.png": "/landing-page/static/media/presentation.dfdbc83a6ecb0d2c0309.png",
+    "static/media/bndes-garagem.png": "/landing-page/static/media/bndes-garagem.f2a0eff52e478e085c4c.png",
+    "static/media/logo-novo.png": "/landing-page/static/media/logo-novo.5da0ffd5b6b9c02f8331.png",
+    "static/media/definition.png": "/landing-page/static/media/definition.f56770a81c7fe3c2464e.png",
+    "static/media/garagem-apoiadores.png": "/landing-page/static/media/garagem-apoiadores.72140ea3429cc8cc0360.png",
+    "static/media/contact.png": "/landing-page/static/media/contact.8d2006b61970b0cc21ac.png",
+    "index.html": "/landing-page/index.html",
+    "main.4707c148.css.map": "/landing-page/static/css/main.4707c148.css.map",
+    "main.2bc4b8d3.js.map": "/landing-page/static/js/main.2bc4b8d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4707c148.css",
+    "static/js/main.2bc4b8d3.js"
+  ]
+}
