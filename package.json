@@ -1,7 +1,7 @@
 {
   "name": "compartilha",
   "version": "0.1.0",
-  "homepage": "https://compartilha.github.io/landing-page/",
+  "homepage": "https://compartilha.github.io/",
   "private": true,
   "dependencies": {
     "@iconify/react": "^4.0.1",
