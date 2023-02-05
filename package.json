@@ -1,7 +1,7 @@
 {
   "name": "compartilha",
   "version": "0.1.0",
-  "homepage": "https://compartilha.com.br",
+  "homepage": "https://www.compartilha.com.br",
   "private": false,
   "dependencies": {
     "@iconify/react": "^4.0.1",
